@@ -1,0 +1,18 @@
+{
+  "name": "desafio-backend-m2-t15",
+  "version": "1.0.0",
+  "description": "Digital Bank API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Giovane Sobral",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
